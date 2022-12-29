@@ -12,3 +12,11 @@ p {
   background-color: #999;
   padding: 10px;
 }
+
+div{
+  padding: 5px;
+}
+
+Button {
+  margin: 2px;
+}
