@@ -1,7 +1,6 @@
 body {
   padding: 50px;
   padding-bottom: 500px;
-  background-color: #efefef;
 }
 
 h1 {
@@ -9,14 +8,11 @@ h1 {
 }
 
 p {
-  background-color: #999;
   padding: 10px;
+  background-color: grey;
 }
 
 div{
   padding: 5px;
 }
 
-Button {
-  margin: 2px;
-}
